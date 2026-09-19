@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "호텔스캐너",
+    "timestamp": "2026-09-19T15:04:20.976Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "호텔 스캐너",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "전 세계 숙소",
+      "최저가 보장",
+      "리얼 리뷰"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "프리미엄 호텔부터 가성비 숙소까지 모두 찾아드립니다."
+  }
+}
